@@ -1,0 +1,14 @@
+Untuk BackEnd dapat dengan cara
+  -  Membuat instance VM atau EC2 instance di AWS, atau membuat sebuah function di AWS Lambda sesuai dengan kebutuhan
+  -  Konfigurasi instance atau function tersebut untuk menjalankan server back-end.
+  - Install dan setup runtime environment yang ada pada kodingan Node.js seperti express.js, nodemon, atau yang lain
+  -  Upload source code back-end ke instance atau function tersebut
+  -  Build dan run aplikasi back-end untuk memastikan bahwa server berjalan dengan baik.
+  - dan server dapat berjalan
+
+Deploying Front-end
+  -  Build aplikasi untuk frontEnd
+  -  Upload hasil build ke server atau hosting yang dipilih contoh kaya AWS atau VM atau Google yang telah disediakan.
+  -  Konfigurasi server front-end dengan server yang sesuai seperti Nginx, Apache, Graphql atau yang lain.
+  -  Konfigurasi DNS dan domain name agar dapat diakses melalui URL yang diinginkan.
+  -  Jalankan aplikasi front-end di browser untuk memastikan bahwa aplikasi berjalan dengan baik.
